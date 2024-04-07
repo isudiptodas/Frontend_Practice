@@ -28,7 +28,7 @@ header .container{
 }
 
 header .search{
-  width: 1060px;
+  width: 90vw;
   height: 40px;
   margin-top: 20px;
   margin-left: 45px;
@@ -101,7 +101,7 @@ main{
 main .card-section{
   background-color: white;
   height: 300px;
-  width: 1170px;
+  width: 95vw;
   border-radius: 30px;
   padding: 70px 40px;
   display: flex;
