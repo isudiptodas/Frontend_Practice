@@ -23,3 +23,10 @@
 <img height=140 src="https://github.com/isudiptodas/isudiptodas/blob/main/FlavourLand_logo.png" alt="flavourland-logo"/>
 </div>
 
+***
+###
+
+<div align="center">
+<img height=80 src="https://github.com/isudiptodas/isudiptodas/blob/main/HerSafety-logo.png" alt="hersafety-logo"/>
+</div>
+
