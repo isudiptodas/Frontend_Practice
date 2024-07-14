@@ -1,6 +1,6 @@
 
 <h2>FlavourLand</h2>
-<p>Online Food Ordering</p>
+<p>Online Food Ordering Concept Website</p>
 <div align="left">
 <img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/FlavourLand/flavourland%201.png" alt="flavourland-logo"/>
 <img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/FlavourLand/flavourland%202.png" alt="flavourland-logo"/>
@@ -42,6 +42,59 @@
 <img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Microsoft%20Redesigned/m5.png" alt="microsoft"/>
 <img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Microsoft%20Redesigned/m6.png" alt="microsoft"/>
 </div>
+
+***
+###
+
+<h2>Music Player</h2>
+<p>
+  • Play / Pause<br>
+  • Previous<br>
+  • Next<br>
+  • Glassmorphism effect<br>
+  • Background change with music cover<br>
+</p>
+<div align="left">
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/music%20player.png" alt="music player"/>
+</div>
+
+***
+###
+
+<h2>Add Friend</h2>
+<p>
+  • Add / Remove friend<br>
+  • View friend list<br>
+  • Glassmorphism effect<br>
+</p>
+<div align="left">
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Add%20Friend/add%20friend%201.png" alt="add friend"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Add%20Friend/add%20friend%202.png" alt="add friend"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Add%20Friend/add%20friend%203.png" alt="add friend"/>
+</div>
+
+***
+###
+
+<h2>Tic Tac Toe</h2>
+<p>
+  • Choose symbol ( X , O )<br>
+  • Restart button<br>
+  • Game draw check<br>
+  • Winner message<br>
+  • Glassmorphism effect<br>
+  • Moving blob animation <br>
+</p>
+<div align="left">
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Tic%20Tac%20Toe/ttt%201.png" alt="tic tac toe"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Tic%20Tac%20Toe/ttt%202.png" alt="tic tac toe"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Tic%20Tac%20Toe/ttt%203.png" alt="tic tac toe"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Tic%20Tac%20Toe/ttt%204.png" alt="tic tac toe"/>
+</div>
+
+***
+###
+
 
 
 
