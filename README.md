@@ -1,5 +1,5 @@
 <p>
-Here is a collection of some of my development works which I created just to enhance my skills and improve practical knowledge also done some experiments and tried new development styles from <b>Minimalistic Landing Pages, Animated UI , Smooth Scrolling , Mouse Interaction </b> and bla bla bla... <br>  So, now as you are in this repo then do have a look.
+Here is a collection of some of my development works which I created just to enhance my skills and improve practical knowledge also done some experiments and tried new development styles from <b>Minimalistic Landing Pages, Animated UI , Smooth Scrolling , Mouse Interaction , Features using JS DOM</b> and bla bla bla... <br>  So, now as you are in this repo then do have a look.
 </p>
 
 ***
