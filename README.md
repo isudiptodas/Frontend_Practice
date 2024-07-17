@@ -52,6 +52,18 @@ Here is a collection of some of my development works which I created just to enh
 ***
 ###
 
+<h2>Stream</h2>
+<p>Online Movie Streaming Platform</p>
+<div align="left">
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/STREAM/s1.png" alt="flavourland-logo"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/STREAM/s2.png" alt="flavourland-logo"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/STREAM/s3.png" alt="flavourland-logo"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/STREAM/s4.png" alt="flavourland-logo"/>
+</div>
+
+***
+###
+
 <h2>Music Player</h2>
 <p>
   • Play / Pause<br>
@@ -98,7 +110,11 @@ Here is a collection of some of my development works which I created just to enh
 <img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Tic%20Tac%20Toe/ttt%204.png" alt="tic tac toe"/>
 </div>
 
+
 ***
+###
+
+
 
 
 
