@@ -64,6 +64,17 @@ Here is a collection of some of my development works which I created just to enh
 ***
 ###
 
+<h2>Recipe Finder</h2>
+<p>Online platfrom for food recipes (Fetched recipe data from API)</p>
+<div align="left">
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Recipe%20Finder/r1.png" alt="recipe-finder"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Recipe%20Finder/r2.png" alt="recipe-finder"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Recipe%20Finder/r3.png" alt="recipe-finder"/>
+</div>
+
+***
+###
+
 <h2>Music Player</h2>
 <p>
   • Play / Pause<br>
