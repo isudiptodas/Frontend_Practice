@@ -75,6 +75,17 @@ Here is a collection of some of my development works which I created just to enh
 ***
 ###
 
+<h2>Skill Field</h2>
+<p>Concept project of an online learning platform </p>
+<div align="left">
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Skill%20Field/sf1.png" alt="skill-field"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Skill%20Field/sf2.png" alt="skill-field"/>
+<img height=120 src="https://github.com/isudiptodas/isudiptodas/blob/main/Projects/Skill%20Field/sf3.png" alt="skill-field"/>
+</div>
+
+***
+###
+
 <h2>Music Player</h2>
 <p>
   • Play / Pause<br>
